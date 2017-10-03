@@ -1,5 +1,5 @@
-FROM eguahlak/glassfish-cph
-MAINTAINER AKA RHP
+FROM runseb/flask
+#MAINTAINER AKA RHP
 
 # COPY ./dist/*.war /opt/glassfish4/glassfish/domains/domain1/autodeploy/HelloWorldWebApp.war
 
